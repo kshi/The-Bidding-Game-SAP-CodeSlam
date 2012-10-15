@@ -1,3 +1,5 @@
 My AI for the SAP Hackerrank Bidding Game.
 
-The bot probably doesn't make much sense until I upload something explaining the random looking array of numbers in there :p
+Basically I computed what the monetary cost of being in each board location. The bot bids by trying to maintain the relative fraction of my money vs my opponent's money at each board location.
+
+I may upload a more formal derivation at some point.
