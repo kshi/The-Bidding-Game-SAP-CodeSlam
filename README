@@ -1,4 +1,4 @@
-My algorithm for the SAP Code Slam Finals Bidding Game.
+My algorithm for the SAP Code Slam Finals Bidding Game. Finished in first place.
 
 Basically I computed what the monetary cost of being in each board location. The bot bids by trying to maintain the ratio of my money vs my opponent's money at each board location. The algorithm should be mathematically optimum, modulo accumulated rounding errors. 
 
